@@ -1,4 +1,4 @@
-## My Mac Setup
+## Mac Setup
 
 This repo contains info on all the apps / tools / settings I use on my Mac.
 
@@ -36,19 +36,6 @@ This repo contains info on all the apps / tools / settings I use on my Mac.
 - [Break Timer](#break-timer)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## What Macbook do I have?
-
-In the 2022 setup video I was using the 2015 Macbook Pro. You can read more about it [here](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.5-15-dual-graphics-mid-2015-retina-display-specs.html)
-
-I am now using the 2021 14" Macbook Pro. This setup works exactly the same on there.
-
-These are the specs at a glance:
-* Apple M1 Pro
-* 16GB RAM
-* 500GB SSD
-
-Read more about this Macbook [here](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-pro-8-core-cpu-14-core-gpu-14-2021-specs.html)
 
 ## Homebrew / Terminal / Shell
 

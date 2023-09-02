@@ -10,4 +10,5 @@ keka
 kap
 time-out
 visual-studio-code
+firefox developer edition
 brackets
